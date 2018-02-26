@@ -1,0 +1,61 @@
+.head {
+    background: coral;
+    margin: 10px 0 20px 0;
+}
+
+.rules {
+    background:turquoise;
+    margin: 0 0 20px 0;
+    height: 300px;
+    width: 500px;
+}
+.points{
+    background: springgreen;
+    margin: 0 0 20px 0;
+    position: relative;
+    top: 320px;
+    right: 500px;
+    width: 250px;
+    height: 150px;
+   
+}
+.scoreboard {
+    background: thistle;
+    margin: 0 0 20px 20px;
+    position: relative;
+    top: 320px;
+    right: 500px;
+    width: 200px;
+    height: 150px;
+}
+
+.score {
+    background: turquoise;
+    position: relative;
+    top: 180px;
+    width: 300px;
+    height: 100px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.finalScore {
+    background: turquoise;
+    position: relative;
+    width: 350px;
+    height: 50px;
+    left: 40px;
+    top: 180px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 180px;
+    cursor: pointer;
+}
+
+#blue {
+    background: #fff;
+}
